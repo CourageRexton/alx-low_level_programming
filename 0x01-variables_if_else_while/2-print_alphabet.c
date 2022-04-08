@@ -19,6 +19,6 @@ int main(void)
 		ch++
 	} while (ch <= 'z');
 	putchar('\n');
-	return (0)
+	return (0);
 }
 

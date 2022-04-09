@@ -14,7 +14,7 @@ int main(void)
 	int y;
 	int z;
 
-	x = 0
+	x = 0;
 
 	while (x < 100)
 	{

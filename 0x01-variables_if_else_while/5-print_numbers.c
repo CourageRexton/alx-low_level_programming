@@ -16,6 +16,7 @@ int main(void)
 		printf("%d", x);
 		x++;
 	} while (x <= 9);
-	putchar('\n'); 
+	putchar('\n');
 	return (0);
 }
+

@@ -44,4 +44,4 @@ int strlengr(char *a, int i)
 	if (a[i] != '\0')
 		return (strlengr(a, ++i));
 	return (i);
-}}
+}

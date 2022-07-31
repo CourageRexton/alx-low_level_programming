@@ -24,7 +24,8 @@ This repository contains programs written for the lower-level programming track 
 * [0x14. C - Bit Manipulation](./0x14-bit_manipulation)
 * [0x15. C - File IO](./0x15-file_io)
 * [0x17. C - Doubly Linked Lists](./0x17-doubly_linked_lists)
-* [0x18. C - Dynamic Libraries](./0x18-dynamic_libraries) 
+* [0x18. C - Dynamic Libraries](./0x18-dynamic_libraries)
+* [0x1A. C - Hash Tables](./0x1A-hash_tables) 
 
 
 ## ALX Low Level Programming with C
